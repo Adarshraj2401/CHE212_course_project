@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileIDs>
+  <SavePoint tag="savepoint1" fileid="382cfaf0d0157503"/>
+  <BinaryResource file="mesh1.mphbin" fileid="2030681cc1595660"/>
+  <BinaryResource file="geometry3.mphbin" fileid="dc7e3cc0aafe236b"/>
+  <BinaryResource file="geometry4.mphbin" fileid="e7edfdfca8c65100"/>
+  <BinaryResource file="xmesh1.mphbin" fileid="e93871dd0c5d59b3"/>
+  <BinaryResource file="geommanager1.mphbin" fileid="e9e812aa0d4cba82"/>
+  <BinaryResource file="solution1.mphbin" fileid="1bd8fe95bd692a18"/>
+  <BinaryResource file="solutionstatic1.mphbin" fileid="e741243675d43e02"/>
+  <BinaryResource file="solutionblock1.mphbin" fileid="814f3dbf6d2adffe"/>
+</FileIDs>
+
