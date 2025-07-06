@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelInfo comsolVersion="6.1.0.282" modelType="MODEL" nodeType="solved" isRunnable="false" pdfResources="" passwordProtection="off" startMode="edit" ignoreLicenseErrors="off" title="" description="" runtimeProtection="off" windowTitle="" expectedComputationTime="" lastComputationTime="73.686 s" mainPartSDim="None">
+  <historyInfo createdIn="COMSOL Multiphysics 6.1 (Build: 282)" author="" createdDate="1745165203284" lastModifiedBy="" lastModifiedDate="1745165203294"/>
+  <licenseInfo products="CFD|HEATTRANSFER|POLYMERFLOW"/>
+  <physicsInfo physics="Laminar_flow##Heat_transfer_in_fluids"/>
+  <geometryInfo>
+    <geom tag="geom1" dimension="2"/>
+  </geometryInfo>
+  <batchLicInfo batchLic=""/>
+  <appArgumentInfo/>
+</modelInfo>
+
