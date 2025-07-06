@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelInfo comsolVersion="6.1.0.282" modelType="MODEL" nodeType="solved" isRunnable="false" appTheme="Default" pdfResources="" passwordProtection="off" startMode="edit" ignoreLicenseErrors="off" title="" description="" runtimeProtection="off" windowTitle="" expectedComputationTime="" lastComputationTime="20.504 s" mainPartSDim="None">
+  <historyInfo createdIn="COMSOL Multiphysics 6.1 (Build: 282)" author="" createdDate="1741196593464" lastModifiedBy="" lastModifiedDate="1741196593514"/>
+  <licenseInfo products=""/>
+  <physicsInfo physics="Heat_transfer_in_solids"/>
+  <geometryInfo>
+    <geom tag="geom1" dimension="3"/>
+  </geometryInfo>
+  <batchLicInfo batchLic=""/>
+  <compilerData batchorcluster="" applicationtitle="Untitled"/>
+  <appArgumentInfo/>
+</modelInfo>
+

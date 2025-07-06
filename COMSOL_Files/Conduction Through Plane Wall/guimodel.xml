@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GuiModel dimension="3" viewDimension="1" guiView="POST" currentGeomSequence="geom1" currentMeshSequence="mesh1" currentPlotGroupFeature="pg6" currentStudyFeature="std1" currentNode="/result/feature/pg6/feature/lngr1" applicationFeature="mainwindow">
+  <openWindows>
+    <string>MAINWINDOW</string>
+  </openWindows>
+  <subModelsTag>
+    <string>geom1</string>
+  </subModelsTag>
+  <subModelsLastDrawOrSketch>
+    <string>DRAW</string>
+  </subModelsLastDrawOrSketch>
+</GuiModel>
+
