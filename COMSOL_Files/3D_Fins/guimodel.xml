@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GuiModel dimension="3" viewDimension="3" guiView="POST" currentGeomSequence="geom1" currentMeshSequence="mesh1" currentTableFeature="evl3" currentPlotGroupFeature="pg4" currentStudyFeature="std2" currentNode="/result/feature/pg4">
+  <openWindows>
+    <string>MAINWINDOW</string>
+  </openWindows>
+  <subModelsTag>
+    <string>geom1</string>
+    <string>part1</string>
+    <string>part1/wp1</string>
+    <string>part1/wp2</string>
+    <string>part1/wp3</string>
+    <string>part1/wp4</string>
+    <string>part1/wp5</string>
+    <string>part1/wp6</string>
+    <string>part1/wp7</string>
+    <string>part1/wp8</string>
+    <string>part1/wp9</string>
+    <string>part1/wp12</string>
+    <string>part1/wp10</string>
+    <string>part1/wp11</string>
+  </subModelsTag>
+  <subModelsLastDrawOrSketch>
+    <string>DRAW</string>
+    <string>DRAW</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+  </subModelsLastDrawOrSketch>
+</GuiModel>
+

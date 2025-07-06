@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelInfo comsolVersion="6.1.0.282" modelType="MODEL" nodeType="solved" isRunnable="false" pdfResources="" passwordProtection="off" startMode="edit" ignoreLicenseErrors="off" title="" description="" runtimeProtection="off" windowTitle="Fins" expectedComputationTime="" lastComputationTime="2755.347 s" mainPartSDim="3">
+  <historyInfo createdIn="COMSOL Multiphysics 6.1 (Build: 282)" author="" createdDate="1745169623106" lastModifiedBy="" lastModifiedDate="1745171930335"/>
+  <licenseInfo products="BATTERYDESIGN|CFD|CHEM|CORROSION|ELECTROCHEMISTRY|ELECTRODEPOSITION|FUELCELLANDELECTROLYZER|HEATTRANSFER|MICROFLUIDICS|PLASMA|POLYMERFLOW|POROUSMEDIAFLOW|SUBSURFACEFLOW"/>
+  <physicsInfo physics="Laminar_flow##Heat_transfer_in_solids_and_fluids"/>
+  <geometryInfo>
+    <geom tag="geom1" dimension="3"/>
+    <geom tag="part1" dimension="3" type="SUBSEQUENCE" hasProgramming="true"/>
+  </geometryInfo>
+  <batchLicInfo batchLic=""/>
+  <appArgumentInfo/>
+</modelInfo>
+

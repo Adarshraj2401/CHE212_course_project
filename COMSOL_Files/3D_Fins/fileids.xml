@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileIDs>
+  <SavePoint tag="savepoint1" fileid="de8e1ca3687a18fb"/>
+  <SavePoint tag="savepoint2" fileid="d16c38d90a186776"/>
+  <BinaryResource file="mesh1.mphbin" fileid="f690e0f7317288df"/>
+  <BinaryResource file="mesh2.mphbin" fileid="81e202c729fa3bb1"/>
+  <BinaryResource file="geometry4.mphbin" fileid="fc7b155cc0b6f3e1"/>
+  <BinaryResource file="geometry2.mphbin" fileid="1130212cde7bb1cd"/>
+  <BinaryResource file="geometry1.mphbin" fileid="bd593cfe52f5b23f"/>
+  <BinaryResource file="geometry3.mphbin" fileid="317e2535313f22ce"/>
+  <BinaryResource file="xmesh1.mphbin" fileid="9eba5d35e0e407f"/>
+  <BinaryResource file="xmesh2.mphbin" fileid="80f11fbcde73a380"/>
+  <BinaryResource file="geommanager3.mphbin" fileid="9f1cc46f047156a2"/>
+  <BinaryResource file="geommanager2.mphbin" fileid="882e9517af1a1305"/>
+  <BinaryResource file="geommanager1.mphbin" fileid="b2f2bfee9b730767"/>
+  <BinaryResource file="solution1.mphbin" fileid="251cbbbb57b3a65f"/>
+  <BinaryResource file="solution2.mphbin" fileid="2fe278f798658ee"/>
+  <BinaryResource file="solutionstatic1.mphbin" fileid="934b2e7ac7b793db"/>
+  <BinaryResource file="solutionstatic2.mphbin" fileid="b44b6a0fdd5f28cb"/>
+  <BinaryResource file="solutionblock1.mphbin" fileid="4b209590fa4a899"/>
+  <BinaryResource file="solutionblock2.mphbin" fileid="e4912b1a1c89d9ca"/>
+</FileIDs>
+
